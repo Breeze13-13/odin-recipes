@@ -1,0 +1,48 @@
+h1 {
+    color: #457b9d;
+    background-color: #f1faee;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 60px;
+}
+
+h3 {
+    color: #e63946;
+    background-color: #f1faee;
+    font-size: 28px;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.description
+ {
+    color: #457b9d;
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.ingredients {
+    color: #457b9d;
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.steps
+{
+    color: #457b9d;
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.home {
+    background-color: #A8DADC;
+    color: #457b9d;
+    font-family: Helvetica, sans-serif;
+}
+
+h4 {
+    color: #1d3557;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+}
